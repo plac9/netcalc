@@ -54,6 +54,7 @@ netcalc is a production-quality iOS subnet calculator built with modern Swift 6.
 - **Language**: Swift 6.0 (strict concurrency enabled)
 - **UI Framework**: 100% SwiftUI
 - **Platforms**: iOS 18.0+, iPadOS 18.0+, macOS 15.0+
+- **Bundle ID**: com.laclairtech.netcalc
 - **Package Manager**: Swift Package Manager
 - **Testing**: Swift Testing framework
 - **Code Quality**: SwiftLint
