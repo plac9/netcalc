@@ -1,141 +1,84 @@
 # netcalc - Session Context
 
-**Last Updated**: 2025-11-09 17:37
-**Status**: Development (Clean Rebuild)
-**Version**: v0.1.0 (rebuild)
-**Brand**: LaClair Technologies
+**Last Updated**: 2025-11-10
+**Status**: [Development | Staging | Production | Maintenance]
+**Version**: v0.1.0
 
 ## Quick Status
 
-- **Current Phase**: Clean rebuild in progress
-- **Active Work**: Phase 1 - Foundation (core model, basic UI)
+- **Current Phase**: Initial setup
+- **Active Work**: Documentation standardization
 - **Blockers**: None
-- **Next Steps**: Complete Phase 1, begin Phase 2
+- **Next Steps**: Complete initial implementation
 
 ## Project Overview
 
 ### Purpose
-
-Modern subnet calculator and network designer for iOS/iPadOS/macOS - professional networking tool with IPv4/IPv6 support, VLSM, supernetting, and network topology visualization.
+[1-2 sentence description of what this project does]
 
 ### Technology Stack
-
-- **Language**: Swift 6.0 (strict concurrency)
-- **Framework**: SwiftUI (100%)
-- **Package Manager**: Swift Package Manager (SPM)
-- **Testing**: Swift Testing framework
-- **Linting**: SwiftLint
-- **Platforms**: iOS 18.0+, iPadOS 18.0+, macOS 15.0+
+- **Language**: [Primary language]
+- **Framework**: [Framework if applicable]
+- **Database**: [Database if applicable]
+- **Infrastructure**: [Deployment platform]
 
 ### Repository Info
-
 - **GitHub**: https://github.com/plac9/netcalc
-- **Brand**: LaClair Technologies
-- **Design**: Matrix-inspired (#00FF41 neon green on #0D0208 black)
+- **Brand**: [LaClair Tech | Real Time]
 
 ## Current State
 
 ### What's Working
-
-✅ Clean rebuild initiated
-✅ Swift 6.0 strict concurrency enabled
-✅ SwiftUI 100% (no UIKit/AppKit)
-✅ Swift Package Manager configured
-✅ SwiftLint integration
-✅ Swift Testing framework
+- Repository structure standardized
+- Documentation framework in place
 
 ### Known Issues
-
-- Phase 1 foundation in progress
-- Core calculator features need implementation
-- UI needs development
+- [ ] Initial templates need customization
+- [ ] Project-specific documentation needed
 
 ### Recent Changes
+- **2025-11-10**: Implemented standard documentation structure
 
-- **2025-11-09**: Documentation standardization applied
-- Clean rebuild started from scratch
-- Modern Swift 6.0 architecture
+## Key Files & Locations
+
+### Documentation
+- **Session Context**: `.ai/SESSION_CONTEXT.md` (this file)
+- **Architecture**: `.ai/ARCHITECTURE.md`
+- **Troubleshooting**: `docs/TROUBLESHOOTING.md`
+- **Deployment**: `docs/DEPLOYMENT.md`
+
+### Scripts
+- **Development**: `scripts/dev/`
+- **Deployment**: `scripts/deploy/`
+- **Troubleshooting**: `scripts/troubleshoot/`
 
 ## Development Workflow
 
 ### Setup (First Time)
-
 ```bash
-# Clone repository
-git clone https://github.com/plac9/netcalc.git
-cd netcalc
-
-# Build project
-swift build
-
-# Run tests
-swift test
-
-# Or open in Xcode
-open netcalc.xcodeproj
+# Setup commands to be added
 ```
 
 ### Common Tasks
-
 ```bash
-# Build
-swift build
-
-# Run tests
-swift test
-
-# Run linter
-swiftlint
-
-# Open in Xcode
-open netcalc.xcodeproj
+# Common development tasks to be added
 ```
 
-## Features Roadmap
+## Deployment
 
-### Phase 1: Foundation (Current)
-- Core subnet calculator model
-- Basic SwiftUI interface
-- Unit tests for calculations
-
-### Phase 2: Core Features
-- Complete calculator functionality
-- VLSM (Variable Length Subnet Masking)
-- Supernet aggregation
-- IPv6 support
-
-### Phase 3: Polish
-- iPad optimization
-- macOS support
-- App Store preparation
-
-### Phase 4: Advanced
-- Network topology visualization
-- Import/export (CSV, JSON)
-- API integration
-
-## Planned Features
-
-- **IPv4/IPv6 CIDR Calculations**
-- **VLSM Subnet Design**
-- **Supernet Aggregation**
-- **Network Topology Visualization**
-- **Binary/Decimal/Hex Representations**
-- **Export to CSV/JSON**
-
-## Design
-
-- **Theme**: Matrix-inspired aesthetic
-- **Primary Color**: #00FF41 (neon green)
-- **Background**: #0D0208 (black)
-- **Style**: Cyberpunk/hacker aesthetic
+### Environments
+- **Development**: Local development
+- **Staging**: [To be configured]
+- **Production**: [To be configured]
 
 ## Resources
 
-- Part of LaClair Technologies portfolio
-- Swift 6.0 documentation
-- SwiftUI documentation
+### Documentation
+- See `docs/README.md` for complete documentation index
+
+### Related Projects
+- Part of [LaClair Tech | Real Time] project portfolio
 
 ---
 
-**Note**: Clean rebuild for modern Swift architecture. Legacy code discarded.
+**Note**: This file provides AI session context. Update regularly to keep agents informed.

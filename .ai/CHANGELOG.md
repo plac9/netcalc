@@ -1,6 +1,6 @@
 # netcalc - Changelog
 
-## [2025-11-09] - Documentation Standardization
+## [2025-11-10] - Documentation Standardization
 
 ### Added
 - Standard documentation structure
