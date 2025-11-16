@@ -43,11 +43,15 @@ struct ContentView: View {
                 .padding(MatrixTheme.paddingLarge)
             }
             .navigationTitle("netcalc")
+#if os(iOS)
             .navigationBarTitleDisplayMode(.inline)
+#endif
         }
     }
 }
 
+#if os(iOS)
 #Preview {
     ContentView()
 }
+#endif
