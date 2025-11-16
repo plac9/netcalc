@@ -19,10 +19,7 @@ let package = Package(
     targets: [
         .target(
             name: "netcalc",
-            dependencies: [],
-            swiftSettings: [
-                .enableUpcomingFeature("StrictConcurrency")
-            ]
+            dependencies: []
         ),
         .testTarget(
             name: "NetCalcTests",
